@@ -1,16 +1,4 @@
-# pr1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Miêu tả: Đây là Source code của ứng dụng trong yêu cầu bài tập tuần 4 - 5.1  
+Tác giả: A42064 Nguyễn Văn Tuấn  
+Thông tin thêm: https://youtu.be/iIpkpKzEPiY  
+Liên hệ: (+84) 985 296 994  
